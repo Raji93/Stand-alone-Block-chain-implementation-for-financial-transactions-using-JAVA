@@ -17,5 +17,5 @@ Project 2 : JAX-WS service
 Project 3 : REST services
 
 - The remote client interactive system based on the blockchain API  allows users to add their financial transactions to the block chain.
-    - Validates the block chain.
-    - Displays the block chain.
+- Validates the block chain.
+- Displays the block chain.
